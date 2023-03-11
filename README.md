@@ -1,5 +1,7 @@
 # characters
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/Mobilpadde/characters.svg)](https://pkg.go.dev/github.com/Mobilpadde/characters)
+
 Just a few character helpers for Go
 
 ## Why
