@@ -7,6 +7,7 @@ const (
 	// Uppercase contains all uppercase letters from `A` to `Z`.
 	Uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-	// All contains all lowercase and uppercase letters from above.
-	All = Lowercase + Uppercase
+	// Combined contains both lowercase and uppercase letters from above
+	// concatenated together.
+	Combined = Lowercase + Uppercase
 )
